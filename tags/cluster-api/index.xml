@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cluster-api on Jazzsir&#39;s blog</title>
+    <title>Cluster-API on Jazzsir&#39;s blog</title>
     <link>https://jazzsir.github.io/tags/cluster-api/</link>
-    <description>Recent content in cluster-api on Jazzsir&#39;s blog</description>
+    <description>Recent content in Cluster-API on Jazzsir&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> © 2020 jazzsir&#39;s tech blog. Powered by [Hugo](https://github.com/gohugoio/hugo). Theme [Okayish Blog Hugo Theme](https://github.com/kongdivin/hugo-theme-okayish-blog#readme).</copyright>

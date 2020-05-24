@@ -21,5 +21,17 @@
       <description>Cluster-API for Openstack(CAPO) Sequence diagram - v1alpha2 </description>
     </item>
     
+    <item>
+      <title>Installing Kolla-kubernetes</title>
+      <link>https://jazzsir.github.io/posts/installing-kolla-kubernetes/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jazzsir.github.io/posts/installing-kolla-kubernetes/</guid>
+      <description>kolla로 build된 Openstack components를 Kubernetes상에 전개하는 Kolla-kubernetes를 설치하는 방법을 정리하였다.
+기존 소스에서 아래를 수정 하였다.
+ All-in-one으로 설치되는 Charts를 Controller/Network/Compute node로 분할하여 Multi-node 로 설치되도록 Open vSwitch관련 Charts를 수정. Openstack Ocata(4.0.0)를 최신 release인 Pike(5.0.2)로 변경 적용. 안정적으로 구동될 수 있도록 기존의 많은 문제점들을 수정.  git clone {% highlight js %} git clone http://github.com/openstack/kolla-ansible git clone http://github.com/openstack/kolla-kubernetes {% endhighlight %}
+configure files replace 4.0.0 with 5.0.2 뭐 tools, orchestration 은 안해도 될것 같지만&amp;hellip;.</description>
+    </item>
+    
   </channel>
 </rss>

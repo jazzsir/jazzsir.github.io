@@ -53,6 +53,91 @@
   </url>
   
   <url>
+    <loc>https://jazzsir.github.io/categories/data-plane-acceleration/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/dpdk/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/sr-iov/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/posts/sriov-and-dpdk-packet-processing-acceleration-in-kubernetes/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/controller/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/kubebuilder/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/posts/kubebuilder-and-operator-sdk/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/operator/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/operator-sdk/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/kernal-parameter/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/posts/tuning-kernel-for-kubernetes/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/categories/ai/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/deep-learning/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/tags/machine-learning/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/posts/machine-learning/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/posts/installing-kolla-kubernetes/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jazzsir.github.io/posts/using-sr-iov-on-openstack/</loc>
+    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jazzsir.github.io/authors/</loc>
   </url>
   
