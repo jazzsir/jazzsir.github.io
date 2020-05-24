@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> © 2020 jazzsir&#39;s tech blog. Powered by [Hugo](https://github.com/gohugoio/hugo). Theme [Okayish Blog Hugo Theme](https://github.com/kongdivin/hugo-theme-okayish-blog#readme).</copyright>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jazzsir.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://jazzsir.github.io/categories/kubernetes/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jazzsir.github.io/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openstack</title>
+      <link>https://jazzsir.github.io/categories/openstack/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jazzsir.github.io/categories/openstack/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
